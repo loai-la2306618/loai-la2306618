@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-terminal-v5.svg)
+![Header](https://raw.githubusercontent.com/loai-la2306618/loaiahmedgit/main/assets/header-terminal-v5.svg)
 
 <div align="center">
 
@@ -8,14 +8,14 @@
 [![Graduation](https://img.shields.io/badge/Expected_Graduation-Dec_2027-FF6A00?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://www.qu.edu.qa/)
 [![Location](https://img.shields.io/badge/Doha-Qatar-FF8A3D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Doha,+Qatar/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loaiahmedgit?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loai-la2306618?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-FF8A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loaiabouelezz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loai-la2306618)
 
-![Profile Views](https://komarev.com/ghpvc/?username=loaiahmedgit&label=PROFILE+VIEWS&color=FF6A00&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/loaiahmedgit?label=FOLLOWERS&style=flat-square&color=FF6A00&labelColor=111827)](https://github.com/loaiahmedgit?tab=followers)
-[![Stars](https://img.shields.io/github/stars/loaiahmedgit/web-project-repo?label=PROJECT+STARS&style=flat-square&color=FF7A1A&labelColor=111827)](https://github.com/loaiahmedgit/web-project-repo/stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=loai-la2306618&label=PROFILE+VIEWS&color=FF6A00&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/loai-la2306618?label=FOLLOWERS&style=flat-square&color=FF6A00&labelColor=111827)](https://github.com/loai-la2306618?tab=followers)
+[![Stars](https://img.shields.io/github/stars/loai-la2306618/web-project-repo?label=PROJECT+STARS&style=flat-square&color=FF7A1A&labelColor=111827)](https://github.com/loai-la2306618/web-project-repo/stargazers)
 
 </div>
 
@@ -115,7 +115,7 @@ NASQ is a privacy-first workforce platform designed around a simple principle: v
 | Performance | Server-backed social flows and an analytics dashboard built on normalized relational data |
 | Security | Password hashing, authenticated sessions, unique constraints, and cascading relational integrity |
 | Impact | Demonstrates end-to-end product engineering from data modeling to interactive social features |
-| Repository | [github.com/loaiahmedgit/web-project-repo/tree/main/maseera](https://github.com/loaiahmedgit/web-project-repo/tree/main/maseera) |
+| Repository | [github.com/loai-la2306618/web-project-repo/tree/main/maseera](https://github.com/loai-la2306618/web-project-repo/tree/main/maseera) |
 
 Maseera is a full-stack social platform built to exercise real application architecture rather than isolated UI work. Its PostgreSQL schema models the relationships behind publishing, engagement, conversations, and network growth while supporting product analytics over the same data foundation.
 
@@ -172,8 +172,8 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Engineering_Profile-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
-[![Maseera Repository](https://img.shields.io/badge/Featured_Code-Maseera-FF7A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit/web-project-repo/tree/main/maseera)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Engineering_Profile-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loai-la2306618)
+[![Maseera Repository](https://img.shields.io/badge/Featured_Code-Maseera-FF7A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loai-la2306618/web-project-repo/tree/main/maseera)
 
 </div>
 
@@ -183,7 +183,7 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=loaiahmedgit&bg_color=0D1117&color=FFD0B0&line=FF6A00&point=FF8A3D&area=true&area_color=FF6A00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=loai-la2306618&bg_color=0D1117&color=FFD0B0&line=FF6A00&point=FF8A3D&area=true&area_color=FF6A00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -193,11 +193,11 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-orange.svg)
+![Contribution Snake](https://raw.githubusercontent.com/loai-la2306618/loaiahmedgit/gh-pages/github-contribution-grid-snake-orange.svg)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/orange-ghost.svg" width="88" alt="Animated orange pixel ghost">
+<img src="https://raw.githubusercontent.com/loai-la2306618/loaiahmedgit/main/assets/orange-ghost.svg" width="88" alt="Animated orange pixel ghost">
 
 </div>
 
@@ -234,8 +234,8 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/Gmail-loaiabouelezz%40gmail.com-FF6A00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loaiabouelezz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loai_Abouelezz-FF7A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
-[![GitHub](https://img.shields.io/badge/GitHub-loaiahmedgit-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Repository-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loaiahmedgit?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-loai-la2306618-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loai-la2306618)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Repository-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loai-la2306618?tab=repositories)
 
 </div>
 
